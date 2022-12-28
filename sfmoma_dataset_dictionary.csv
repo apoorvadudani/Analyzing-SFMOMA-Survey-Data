@@ -1,0 +1,8 @@
+﻿Variable,Description 
+cust.id          ,Visitor ID
+visitalone   ,indicates whether a visitor came alone or came with others to the museum
+purchaseticket,indicates whether or not a visitor purchased a ticket for a special art exhibit 
+dollarsspent,the visitor's dollars spent at the museum's gift shop
+cafedining,indicates whether or not the visitor dined in the museum cafe 
+satisfaction  ,visitor's reported satisfaction with their visit to the museum
+timespentFB,visitor's reported time spent (in minutes) using Facebook
